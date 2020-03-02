@@ -1,7 +1,7 @@
 $primary-color: #435e55;
 $secondary-color: #990011FF;
 $show-home-image:true;
-$home-image:url(../img/background.jpeg);
+$home-image:url('../img/background.jpeg');
 $background-opacity:0.7;
 
 @mixin easeOut{
