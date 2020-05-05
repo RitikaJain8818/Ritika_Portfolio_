@@ -47,7 +47,7 @@
         transform:translate3d(100%,0,0);
 
         .portrait{
-            background:url('../img/port1.jpg');
+            background:url('../img/port.jpg');
             width:150px;
             height:150px;
             background-size:cover;
@@ -60,7 +60,8 @@
         'bio'
         'job-1'
         'job-2'
-        'job-3';
+        'job-3'
+        'job-4'; 
 
         grid-template-columns:1fr;
     }
