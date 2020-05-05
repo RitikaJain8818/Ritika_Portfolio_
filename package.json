@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "mywebsite",
   "main": "index.js",
-  "homepage": "https://ritikajain8818.github.io/Ritika_Portfolio/",
+  "homepage": "https://ritikajain8818.github.io/Ritika_Portfolio_",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
