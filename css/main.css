@@ -55,7 +55,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("../img/portrait3.png");
+      background: url("../img/portrait (2).jpg");
       background-size: cover;
       border-radius: 50%;
       border: solid 3px #990011FF; }
@@ -72,6 +72,7 @@
     font-size: 30px;
     text-transform: uppercase;
     padding: 1rem 0;
+    font-family: 'Langar', cursive;
     font-weight: 300;
     color: #fff;
     text-decoration: none;
@@ -123,10 +124,13 @@ h3 {
   h1.lg-heading,
   h2.lg-heading,
   h3.lg-heading {
-    font-size: 6rem; }
+    font-size: 6rem;
+    font-family: 'Langar', cursive;
+  }
   h1.sm-heading,
   h2.sm-heading,
   h3.sm-heading {
+    font-family: 'Langar', cursive;
     margin-bottom: 2rem;
     padding: 0.2rem 1rem;
     background: rgba(71, 100, 90, 0.5); }
@@ -141,7 +145,8 @@ header {
   width: 100%; }
 
 .text-secondary {
-  color: #990011FF; }
+  color: #990011FF;
+  font-family: 'Langar', cursive; }
 
 main {
   padding: 4rem;
@@ -267,7 +272,7 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url("../img/portrait3.png");
+      background: url("../img/portrait (2).jpg");
       width: 150px;
       height: 150px;
       background-size: cover; }
